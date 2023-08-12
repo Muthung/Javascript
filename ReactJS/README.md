@@ -1,5 +1,5 @@
-![react-task-tracker](https://github.com/Muthung/javascript/blob/main/react-task-tracker.png)
-![react-task-tracker](https://github.com/Muthung/javascript/blob/main/react-expense-tracker.png)
+![react-task-tracker](https://github.com/Muthung/Javascript/blob/main/ReactJS/react-task-tracker.png)
+![react-task-tracker](https://github.com/Muthung/Javascript/blob/main/ReactJS/react-expense-tracker.png)
 
 ## React Js
 
