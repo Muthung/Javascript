@@ -36,4 +36,24 @@ To declare variables, use:
 **let** = is used within the scope of where you declared it. <br>
 **const** = it can't be changed or else error. <br>
 
-11:27
+## Dealt Projects
+
+### 1. ReactJS
+
+Using React framework and its libraries to create functional, fast and relieable applications that can assist users while improving my Javascript progamming skills.
+
+Here there twio projects:
+
+        React-task-tracker.
+        React-expense-tracker
+
+To learn more on the projects. Check the **ReactJS** Folder for more.
+
+
+### 2. 30 Days of Javacript
+
+Leetcode has provided programmers with a unique space to learn, tackle problems and solve interview problems from known major technologuy companies around the world.
+
+Using this platform, there is a 30 Days of Javascript learning opportunity using popular problems covering the basics of Javascript.
+
+To learn more on the projects, Questions, Answers and Implementations. Check the **30 Days of Javascript** Folder for more.
