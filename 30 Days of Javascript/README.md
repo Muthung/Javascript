@@ -4,6 +4,6 @@ Leetcode has designed a platform to assist programmes learn Javascript basics wi
 
 Here is a list of the topics and sub-topics of the Questions, with an exlplained solution and Code snippet for the solution.
 
-#### Closures
+### Closures
 
     1. Create Hello World Function. 
