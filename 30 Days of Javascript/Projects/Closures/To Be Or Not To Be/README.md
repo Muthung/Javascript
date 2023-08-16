@@ -10,3 +10,23 @@ Write a function *except* that helps developers test their code. It should take 
 
 #### Implementation
 
+The *expect* function is defined, which takes a single argument *val.* This argument represents the value that you want to perform comparisons on.
+
+Inside the *expect* function, an object is returned. This object contains two functions: *toBe* and *notToBe*.
+
+The *toBe* function is a method of the returned object. It takes a single argument *compareVal*, which is the value you want to compare val with.
+
+In the *toBe* function:
+
+If *val* is equal to *compareVal*, it returns an object with a property *"value"* set to *true*. This indicates that the comparison was successful.
+        
+If *val* is not equal to *compareVal*, it throws an error with the 
+message *"Not Equal"*.
+
+The *notToBe* function is another method of the returned object. Like *toBe,* it takes a single argument *compareVal* to perform the comparison.
+
+In the *notToBe* function:
+
+If *val* is not equal to *compareVal*, it returns an object with a property *"value"* set to *true*. This indicates that the comparison was successful.
+        
+If *val* is equal to *compareVal*, it throws an error with the message *"Equal"*.
