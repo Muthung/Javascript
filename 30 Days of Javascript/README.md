@@ -6,4 +6,7 @@ Here is a list of the topics and sub-topics of the Questions, with an exlplained
 
 ### Closures
 
-    1. Create Hello World Function. 
+ 1. Create Hello World Function. 
+ 2. Counter.
+ 3. To Be Or Not To Be.
+ 4. Counter II.
