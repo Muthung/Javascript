@@ -1,4 +1,4 @@
-## Apply Transform Over Ech Element in Array
+## Apply Transform Over Each Element in Array
 
 ### Question
 
