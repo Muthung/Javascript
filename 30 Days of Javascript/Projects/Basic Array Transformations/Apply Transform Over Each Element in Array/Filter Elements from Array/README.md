@@ -15,3 +15,6 @@ Please solve it without the built-in Array.filter method.
 
 #### Implementation
 
+The *filter* function iterates through the input array *arr* and applies the given filtering function *fn* to each element. 
+
+If the result of the filtering function is truthy (i.e., *Boolean(value)* returns *true*), the element is added to the *filteredArr*. Otherwise, it is skipped.
