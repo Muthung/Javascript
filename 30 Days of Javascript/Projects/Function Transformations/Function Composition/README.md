@@ -13,3 +13,12 @@ You may assume each function in the array accepts one integer as input and retur
 
 #### Implemenatation
 
+The *compose* function is declared using the *var* keyword and takes an array of functions named *functions* as its parameter.
+
+Inside the *compose* function, another function is returned. This returned function represents the composed function that takes an argument *x*.
+
+The inner function uses a *for* loop to iterate through the array of functions in reverse order. Starting from the last function and moving towards the first one, each function in the array is applied to the current value of *x*.
+
+The value of *x* is updated with the result of applying the current function to it.
+
+After looping through all the functions in reverse order, the inner function returns the final value of *x*, which is the result of applying all the functions in the array in right-to-left order.
