@@ -12,7 +12,7 @@ If the length of the array is 0, it should return *init*.
 
 Please solve it without using the built-in *Array.reduce* method.
 
-#### Imlementation
+#### Implementation
 
 The *reduceArray* function is defined, which takes three parameters: *nums, fn*, and *init.*
         
