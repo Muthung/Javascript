@@ -10,3 +10,13 @@ Here is a list of the topics and sub-topics of the Questions, with an exlplained
  2. Counter.
  3. To Be Or Not To Be.
  4. Counter II.
+
+### Basic Array Transformations
+
+ 5. Apply Transform Over Each element in Array.
+ 6. Filter Elements from Array.
+ 7. Array Reduce Transformation.
+
+### Function Transformations
+
+ 8. Function Composition.
