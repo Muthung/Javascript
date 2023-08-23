@@ -20,3 +20,4 @@ Here is a list of the topics and sub-topics of the Questions, with an exlplained
 ### Function Transformations
 
  8. Function Composition.
+ 9. Return Length of Arguments Passed.
