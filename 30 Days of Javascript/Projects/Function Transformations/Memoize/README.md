@@ -16,4 +16,6 @@ You can assume there are 3 possible input functions: *sum, fib, and factorial*.
 
 #### Implementation
 
+The *memoize* function takes another function *(fn)* as its argument and returns a new function that provides the memoization behavior.
 
+The cache is implemented using a *Map* data structure. The *callCount* map keeps track of how many times each set of arguments has been called.
