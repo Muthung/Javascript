@@ -21,3 +21,6 @@ Here is a list of the topics and sub-topics of the Questions, with an exlplained
 
  8. Function Composition.
  9. Return Length of Arguments Passed.
+ 10. Allow One Function Call.
+ 11. Memoize.
+ 
