@@ -23,4 +23,7 @@ Here is a list of the topics and sub-topics of the Questions, with an exlplained
  9. Return Length of Arguments Passed.
  10. Allow One Function Call.
  11. Memoize.
- 
+
+### Promises and Time
+
+ 12. Add Two Promises.
