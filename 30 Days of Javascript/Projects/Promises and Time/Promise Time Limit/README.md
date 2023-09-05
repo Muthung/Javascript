@@ -14,3 +14,10 @@ The time limited function should follow these rules:
 
 #### Implementation
 
+The *timeLimit* function takes the original asynchronous function *fn* and a time limit *t* as parameters.
+
+It returns a new asynchronous function that uses *Promise.race* to race between the original function execution and a timer.
+
+If *fn* completes within the time limit, it resolves with the result of *fn*.
+
+If *fn* execution exceeds the time limit, it rejects with the string *"Time Limt Exceeded"*.
