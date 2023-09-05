@@ -80,3 +80,5 @@ CRUD is implemented in the server and a reminder toggle function on each task. I
 Run *npm i json-server* to install it.
 
 Then run the development server along the json-server while using the application.
+
+Using *npm run server*.
