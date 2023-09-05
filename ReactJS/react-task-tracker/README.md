@@ -1,6 +1,6 @@
 #  (React) Task Tracker
 
-This is a React Expense Tracker. It uses functional components with hooks and the context API
+This is a React Task Tracker. It uses functional components with hooks and the context API
 
 ## Usage
 ```
