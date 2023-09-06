@@ -12,3 +12,5 @@ The class has three public methods:
 
 *count()*: returns the count of un-expired keys.
 
+#### IMplementation
+
