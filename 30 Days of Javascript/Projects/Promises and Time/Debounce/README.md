@@ -14,3 +14,19 @@ Please solve it without using lodash's  *_.debounce()* function.
 
 #### Implementation
 
+*debounce* is a higher-order function that takes two parameters: *fn* (the function to debounce) and *t* (the debounce time in milliseconds).
+
+Inside the *debounce* function, there's a *timer* variable that keeps track of the timer asssociated with the debounced function.
+
+The *return* statement defines an anonymous function that takes any number of arguments using the *...args* syntax. The function will be the debounced version of the original function *fn*.
+
+Within this anonymous function:
+
+- We clear the existing timer using *clearTimeout(timer)* to cancel any previous pending executions of the debounced function.
+
+- We set a new timer using *setTimeout*. This timer will execute the original function *fn* with the provided arguments (*args*) after the specified debounce time *t*.
+
+The *apply* method is used to call the original function *fn* with the correct context (*this*) and the passed arguments *args*.
+
+In the exapmle usage, *dlog* is created as the debounced version of the *log* function. When you call *dlog(1)* and *dlog(2)* with specific delays, the debounced function ensures that the first call is canceled, and only the second call is executed after the specified debounce time. The output includes the time elapsed since the start, along with the provided inputs.
+
