@@ -34,3 +34,7 @@ Here is a list of the topics and sub-topics of the Questions, with an exlplained
  17. Cache With Time Limit.
  18. Debounce.
  19. Execute  Asynchronous Functions in Parallel.
+
+### JSON
+
+ 20. Is Object Empty.
