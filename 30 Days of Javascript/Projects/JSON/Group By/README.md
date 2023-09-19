@@ -14,4 +14,8 @@ Please solve it without lodash's *_.groupBy* function
 
 #### Implementation
 
-s
+Extend the Array prototype with a *groupBy* method that takes the provided *fn* function as an argument.
+
+Inside the method, It iterate through the array elements, use the *fn* functionto generate keys, and group the elements accordingly in the *grouped* object.
+
+It returns the grouped object.
