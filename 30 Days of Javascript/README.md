@@ -41,3 +41,4 @@ Here is a list of the topics and sub-topics of the Questions, with an exlplained
  21. Chunk Array.
  22. Array Prototype Last.
  23. Group By.
+ 24. Sort By.
