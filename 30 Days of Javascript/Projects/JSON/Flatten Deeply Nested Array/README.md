@@ -11,3 +11,9 @@ A **flattened** array is a version of that array with some or all of the sub-arr
 Please solve it wihout the built-in *Array.flat* method.
 
 #### Implementation
+
+The *flat* function takes an input multi-dimensional array *arr* and a depth *n*. It recursively flattens the array up to the specified depth while preserving the original structure for deeper levels.
+
+If the depth is zero, it returns the original array. Otherwise, it iterates through the elements of the array and recursively flattens subarrays if the depth allows.
+
+The spread operator ('...') is used to merge arrays while flattening, and the flattened result is returned.
