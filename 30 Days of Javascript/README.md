@@ -45,3 +45,8 @@ Here is a list of the topics and sub-topics of the Questions, with an exlplained
  25. Join Two Arrays by ID.
  26. Flatten Deeply Nested Array.
  27. Compact Object.
+
+### Classes
+
+ 28. Event Emitter.
+ 
