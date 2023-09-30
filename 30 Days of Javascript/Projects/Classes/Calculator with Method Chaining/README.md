@@ -36,3 +36,16 @@ Solutions within *10^-5* of the actual result are considered correct.
 
 
 #### Implementation
+
+The class *constructor* acccepts an initial value and sets it as the starting result. Then, it defines six methods: *'add', 'substact', 'multiply', 'divide', 'power', and 'get result'*.
+
+The *'add', 'subtract', 'multiply' and 'divide'* methods take a numeric value as an argument, perform the corresponding operation on the result, and return the updated Calculator object, allowing for method chaining.
+
+In the case of division, it checks if the divisor is zero and throws an error if so.
+
+The *'power'* method raises the result to the power of the given value and also returns the updated Calculator object for method chaining.
+
+The *'getResult"* method simply returns the current result.
+
+To use the Calculator class, you create an instance with an initial value and then chain the desired operations together using the provided methods.
+
