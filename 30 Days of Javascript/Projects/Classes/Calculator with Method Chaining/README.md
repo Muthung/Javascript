@@ -1,6 +1,6 @@
 ## Calculator with Method Chaining
 
-### Quetion
+### Question
 
 Design a *Calculator* class. The class should provide the mahematical operations of addition, substraction, multiplication, divisin, and exponentiation. It should also allow consecutive operations to be performed using method chaining.
 
