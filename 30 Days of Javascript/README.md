@@ -50,3 +50,4 @@ Here is a list of the topics and sub-topics of the Questions, with an exlplained
 
  28. Event Emitter.
  29. Array Wrapper.
+ 30. Calculator with Method Chaining.
