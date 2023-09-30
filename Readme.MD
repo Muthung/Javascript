@@ -57,3 +57,5 @@ Leetcode has provided programmers with a unique space to learn, tackle problems 
 Using this platform, there is a 30 Days of Javascript learning opportunity using popular problems covering the basics of Javascript.
 
 To learn more on the projects, Questions, Answers and Implementations. Check the **30 Days of Javascript** Folder for more.
+
+ Started on Aug 15, 2023 - Sept 30, 2023.
